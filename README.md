@@ -1,2 +1,2 @@
 # Treehouse Tech Degree 1
- My first Tech Degree Project on Treehouse
+ This is my first JavaScript Tech Degree Project on Treehouse. 
